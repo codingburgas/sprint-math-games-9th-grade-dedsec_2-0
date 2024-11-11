@@ -1,1 +1,1 @@
-# Sprint-9th-grade-Math-Games
+# Sprint-9th-grade-Math/Word-GAMES
