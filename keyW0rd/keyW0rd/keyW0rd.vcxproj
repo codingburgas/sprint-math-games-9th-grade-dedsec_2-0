@@ -130,9 +130,16 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mainMenu.cpp" />
+    <ClCompile Include="gameMechanics.cpp" />
+    <ClCompile Include="randomW0rds.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mainMenu.h" />
+    <ClInclude Include="gameMechanics.h" />
+    <ClInclude Include="randomW0rds.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="keyW0rd.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

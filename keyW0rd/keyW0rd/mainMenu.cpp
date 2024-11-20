@@ -5,19 +5,26 @@ using namespace std;
 void mainMenu() {
 
 	int num;
-	cout << "Welcome to the game." << endl;
-	cout << "Enter 1 to start" << endl;
 	cin >> num;
 
-	if (num == 1) {
+	cout << "|==============================|" << endl;
+	cout << "|     ____________________     |" << endl;
+	cout << "|      WELCOME TO keyW0rd      |" << endl;
+	cout << "|     --------------------     |" << endl;
+	cout << "|==============================|" << endl;
+	cout << "|     ____________________     |" << endl;
+	cout << "|        1. Start Game         |" << endl;
+	cout << "|        2.    Quit            |" << endl;
+	cout << "|     --------------------     |" << endl;
+	cout << "|==============================|" << endl;
 
+	cout << "PRESS 1 TO START THE GAME" << endl;
+	cout << "PRESS 2 TO QUIT" << endl;
+
+		if (num == 1) {
 		cout << "The game has started.";
-
-
-	}
-	else {
-
-		cout << "Come back later.";
-
-	}
+		}
+		else if (num == 2) {
+			cout << "Goodbye!" << endl;
+		}
 }
