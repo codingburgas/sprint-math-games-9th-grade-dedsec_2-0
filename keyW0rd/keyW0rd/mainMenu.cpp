@@ -46,7 +46,6 @@ void mainMenu() {
         gameMechanics();
     }
     else if (num == 2) {
-        cout << "Instructions" << endl;
         gameInstructions();
     }
     else if (num == 3) {

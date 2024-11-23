@@ -13,7 +13,7 @@ void gameMechanics() {
 
     int attempts = 12;
     string guess;
-    
+
 
     while (attempts > 0) {
         cout << "\nAttempts left: " << attempts << endl;
