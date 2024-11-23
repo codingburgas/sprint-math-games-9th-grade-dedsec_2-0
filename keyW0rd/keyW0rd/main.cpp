@@ -1,7 +1,7 @@
 #include <iostream>
 #include "mainMenu.h"
-#include "gameMechanics.h"
 #include "randomW0rds.h"
+#include "gameMechanics.h"
 
 using namespace std;
 
