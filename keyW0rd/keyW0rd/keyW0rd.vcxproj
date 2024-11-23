@@ -127,12 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="gameInstructions.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="gameMechanics.cpp" />
     <ClCompile Include="mainMenu.cpp" />
     <ClCompile Include="randomWords.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="gameInstructions.h" />
     <ClInclude Include="gameMechanics.h" />
     <ClInclude Include="mainMenu.h" />
     <ClInclude Include="randomWords.h" />

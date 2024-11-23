@@ -1,21 +1,42 @@
 #include <iostream>
 #include "mainMenu.h"
 #include "gameMechanics.h"
+#include "gameInstructions.h"
 
 using namespace std;
 
 void mainMenu() {
 
-    cout << "|==============================|" << endl;
-    cout << "|     ____________________     |" << endl;
-    cout << "|      WELCOME TO keyW0rd      |" << endl;
-    cout << "|     --------------------     |" << endl;
-    cout << "|==============================|" << endl;
-    cout << "|     ____________________     |" << endl;
-    cout << "|        1. Start Game         |" << endl;
-    cout << "|        2.    Quit            |" << endl;
-    cout << "|     --------------------     |" << endl;
-    cout << "|==============================|" << endl;
+    cout << "[@]==========================================================================[@]" << endl;
+    cout << "|  $$\\                           $$\\      $$\\  $$$$$$\\                  $$\\   | " << endl;
+    cout << "|  $$ |                          $$ | $\\  $$ |$$$ __$$\\                 $$ |  |" << endl;
+    cout << "|  $$ |  $$\\  $$$$$$\\  $$\\   $$\\ $$ |$$\\ $$$ |$$$$\\ $$ | $$$$$$\\   $$$$$$$ |  |" << endl;
+    cout << "|  $$ | $$  |$$  __$$\\ $$ |  $$ |$$ $$ $$\\$$ |$$\\$$\\$$ |$$  __$$\\ $$  __$$ |  |" << endl;
+    cout << "|  $$$$$$  / $$$$$$$$ |$$ |  $$ |$$$$  _$$$$ |$$ \\$$$$ |$$ |  \\__|$$ /  $$ |  |" << endl;
+    cout << "|  $$  _$$<  $$   ____|$$ |  $$ |$$$  / \\$$$ |$$ |\\$$$ |$$ |      $$ |  $$ |  |" << endl;
+    cout << "|  $$ | \\$$\\ \\$$$$$$$\\ \\$$$$$$$ |$$  /   \\$$ |\\$$$$$$  /$$ |      \\$$$$$$$ |  |" << endl;
+    cout << "|  \\__|  \\__| \\_______| \\____$$ |\\__/     \\__| \\______/ \\__|       \\_______|  |" << endl;
+    cout << "|                      $$\\   $$ |                                             |" << endl;
+    cout << "|                      \\$$$$$$  |                                             |" << endl;
+    cout << "|                       \\______/                                              |" << endl;
+    cout << "[@]==========================================================================[@]" << endl;
+
+    cout << " " << endl;
+    cout << " " << endl;
+
+    cout << "[@]================================================[@]" << endl;
+    cout << "|           .______________________________.        |" << endl;
+    cout << "|             WELCOME TO THE GAME: keyW0rd          |" << endl;
+    cout << "|           .------------------------------.        |" << endl;
+    cout << "[===================================================]" << endl;
+    cout << "|                .___________________.              |" << endl;
+    cout << "|                  1. Start Game                    |" << endl;
+    cout << "|                  2. Instructions                  |" << endl;
+    cout << "|                  3. Quit                          |" << endl;
+    cout << "|                 .-----------------.               |" << endl;
+    cout << "[===================================================]" << endl;
+    cout << "|  Please enter your choice (1-3):                  |" << endl;
+    cout << "[@]================================================[@]" << endl;
 
     int num;
     cin >> num;
@@ -25,10 +46,13 @@ void mainMenu() {
         gameMechanics();
     }
     else if (num == 2) {
+        cout << "Instructions" << endl;
+        gameInstructions();
+    }
+    else if (num == 3) {
         cout << "Goodbye!" << endl;
     }
     else {
-        cout << "Invalid choice. Please restart the program." << endl;
+        cout << "INVALID INPUT !!! TRY AGAIN !!!" << endl;
     }
-
 }

@@ -27,6 +27,9 @@
     <ClCompile Include="randomWords.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="gameInstructions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mainMenu.h">
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="gameMechanics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gameInstructions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
