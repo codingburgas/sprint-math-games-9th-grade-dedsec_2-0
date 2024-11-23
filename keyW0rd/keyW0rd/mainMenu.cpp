@@ -1,5 +1,6 @@
 #include <iostream>
 #include "mainMenu.h"
+#include "gameMechanics.h"
 
 using namespace std;
 
@@ -15,12 +16,13 @@ void mainMenu() {
     cout << "|        2.    Quit            |" << endl;
     cout << "|     --------------------     |" << endl;
     cout << "|==============================|" << endl;
-    
+
     int num;
     cin >> num;
 
     if (num == 1) {
         cout << "The game has started." << endl;
+        gameMechanics();
     }
     else if (num == 2) {
         cout << "Goodbye!" << endl;
