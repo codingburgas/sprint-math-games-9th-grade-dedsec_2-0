@@ -1,2 +1,7 @@
-﻿  mainMenu.cpp
-  keyW0rd.vcxproj -> C:\Users\User\Desktop\keyW0rd\keyW0rd\x64\Debug\keyW0rd.exe
+﻿  main.cpp
+  gameMechanics.cpp
+  mainMenu.cpp
+  randomWords.cpp
+  Generating Code...
+  LINK : C:\Users\User\Desktop\keyW0rd\sprint-math-games-9th-grade-dedsec_2-0\keyW0rd\x64\Debug\keyW0rd.exe not found or not built by the last incremental link; performing full link
+  keyW0rd.vcxproj -> C:\Users\User\Desktop\keyW0rd\sprint-math-games-9th-grade-dedsec_2-0\keyW0rd\x64\Debug\keyW0rd.exe

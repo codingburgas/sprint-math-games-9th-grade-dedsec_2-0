@@ -13,7 +13,7 @@ void gameMechanics() {
 
     int attempts = 12;
     string guess;
-    
+
 
     while (attempts > 0) {
         cout << "\nAttempts left: " << attempts << endl;
@@ -21,28 +21,35 @@ void gameMechanics() {
         cin >> guess;
 
         if (guess.length() != 5) {
-            cout << "Please enter a 5-letter word." << endl;
+            cout << "\n[!] Please enter a 5-letter word! [!]" << endl;
             continue;
         }
 
         bool allCorrect = true;
 
         for (int i = 0; i < 4; i++) {
-            cout << "Word " << i + 1 << ": ";
+            cout << "\nWord " << i + 1 << ":\n";
 
             if (guess == secretWords[i]) {
+                cout << "+---+---+---+---+---+" << endl;
+                cout << "| " << guess[0] << " | " << guess[1] << " | " << guess[2] << " | " << guess[3] << " | " << guess[4] << " |" << endl;
+                cout << "+---+---+---+---+---+" << endl;
                 cout << "Correct!" << endl;
             }
             else {
+                cout << "+---+---+---+---+---+" << endl;
+                cout << "| ";
                 for (int j = 0; j < 5; j++) {
                     if (guess[j] == secretWords[i][j]) {
-                        cout << guess[j] << " ";
+                        cout << guess[j] << " | ";
                     }
                     else {
-                        cout << "_ ";
+                        cout << "_ | ";
                     }
                 }
                 cout << endl;
+                cout << "+---+---+---+---+---+" << endl;
+
                 allCorrect = false;
             }
         }
