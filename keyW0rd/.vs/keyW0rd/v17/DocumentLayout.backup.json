@@ -46,12 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -70,9 +66,9 @@
               "Title": "randomWords.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\randomWords.cpp",
               "RelativeDocumentMoniker": "keyW0rd\\randomWords.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\randomWords.cpp*",
-              "RelativeToolTip": "keyW0rd\\randomWords.cpp*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAkwC4AAAApAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\randomWords.cpp",
+              "RelativeToolTip": "keyW0rd\\randomWords.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-23T18:36:39.12Z",
               "EditorCaption": ""
@@ -123,8 +119,7 @@
               "RelativeToolTip": "keyW0rd\\gameInstructions.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-23T18:27:51.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T18:27:51.007Z"
             },
             {
               "$type": "Document",
