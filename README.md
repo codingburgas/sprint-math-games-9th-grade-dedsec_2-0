@@ -57,7 +57,7 @@
 
 <p>To download our project, clone our repository by pasting this command in your command prompt:</p>
 
-<pre align="center">git clone "repo_link"</pre>
+<pre align="center">git clone "https://github.com/codingburgas/sprint-math-games-9th-grade-dedsec_2-0"</pre>
 
 <hr>
 
