@@ -1,6 +1,5 @@
-# ➡️keyW0rd⬅️
+<p>==========================================➡️keyW0rd⬅️========================================</p>
 <p align="center">
-     Add logo here.
 </p>
 
 <h1 align="center"> DedSec_2.0 </h1>
@@ -15,7 +14,6 @@
     <summary>Table of Contents</summary>
     <li><a href="#about-the-project">  The Project</a></li>
     <li><a href="#used-technologies">  Technologies</a></li>
-    <li><a href="#contributors">   Contributors</a></li>
     <li><a href="#download">    Download</a></li>
 </details>
 
@@ -25,27 +23,17 @@
 <h2 id="about-the-project">About The Project</h2>
 
 <p align="justify">
-    What the project is about.
+    <p>“keyW0rd” is a word game</p>
+     <p>in which you have 12 attempts</p>
+     <p>to guess a 4 words made up of 5 letters.</p>
+     <p>The game is entertaining and</p>
+     <p>suitable for all ages.</p>
 </p>
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<summary>Screenshots</summary>
-<details open="open">
-<summary>Show</summary>
-<br>
 
-
-|                               Main Menu                               |
-| :-------------------------------------------------------------------: | 
-| Add screenshots of different pages functionalities of the game / app  |
-
-
-</details>
-
-</td></tr></table>
-<p></p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -56,7 +44,8 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" width="20" alt="MS PowerPoint Logo"> <a href="https://bg.wikipedia.org/wiki/Microsoft_PowerPoint">MS PowerPoint</a>
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" width="20" alt="MS Teams Logo"> <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software">MS Teams</a>
 -----------------------------------------------------------------------------------------------------------------------------------
-- :woman_technologist_tone1: Programing languages: <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" width="20" alt="C++ Logo"> <a href="https://cplusplus.com/">C++</a>
+
+-Programing languages: <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" width="20" alt="C++ Logo"> <a href="https://cplusplus.com/">C++</a>
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
