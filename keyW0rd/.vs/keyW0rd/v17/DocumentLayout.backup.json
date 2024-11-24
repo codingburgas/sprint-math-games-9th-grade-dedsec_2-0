@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\mainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|solutionrelative:keyW0rd\\mainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameMechanics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|solutionrelative:keyW0rd\\gameMechanics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|solutionrelative:keyW0rd\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\randomWords.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|solutionrelative:keyW0rd\\randomWords.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameInstructions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|solutionrelative:keyW0rd\\gameInstructions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameMechanics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|solutionrelative:keyW0rd\\gameMechanics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\mainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|solutionrelative:keyW0rd\\mainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameInstructions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameInstructions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|solutionrelative:keyW0rd\\gameInstructions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\randomWords.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\randomWords.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|solutionrelative:keyW0rd\\randomWords.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\mainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|solutionrelative:keyW0rd\\mainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameMechanics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|solutionrelative:keyW0rd\\gameMechanics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|solutionrelative:keyW0rd\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\randomWords.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|solutionrelative:keyW0rd\\randomWords.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameInstructions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|solutionrelative:keyW0rd\\gameInstructions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameMechanics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|solutionrelative:keyW0rd\\gameMechanics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\mainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DCEB020-AB99-4119-B784-CBBFDBE619C3}|keyW0rd\\keyW0rd.vcxproj|solutionrelative:keyW0rd\\mainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,40 +46,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "gameMechanics.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameMechanics.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameMechanics.cpp",
               "RelativeDocumentMoniker": "keyW0rd\\gameMechanics.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameMechanics.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameMechanics.cpp",
               "RelativeToolTip": "keyW0rd\\gameMechanics.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-23T18:37:23.591Z",
+              "WhenOpened": "2024-11-23T18:37:23.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "randomWords.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\randomWords.cpp",
+              "RelativeDocumentMoniker": "keyW0rd\\randomWords.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\randomWords.cpp",
+              "RelativeToolTip": "keyW0rd\\randomWords.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-23T18:36:39.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "randomWords.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\randomWords.cpp",
-              "RelativeDocumentMoniker": "keyW0rd\\randomWords.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\randomWords.cpp",
-              "RelativeToolTip": "keyW0rd\\randomWords.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-23T18:36:39.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\main.cpp",
               "RelativeDocumentMoniker": "keyW0rd\\main.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\main.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\main.cpp",
               "RelativeToolTip": "keyW0rd\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -87,11 +87,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "randomWords.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\randomWords.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\randomWords.h",
               "RelativeDocumentMoniker": "keyW0rd\\randomWords.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\randomWords.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\randomWords.h",
               "RelativeToolTip": "keyW0rd\\randomWords.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -99,11 +99,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "gameInstructions.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameInstructions.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameInstructions.h",
               "RelativeDocumentMoniker": "keyW0rd\\gameInstructions.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameInstructions.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameInstructions.h",
               "RelativeToolTip": "keyW0rd\\gameInstructions.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -111,23 +111,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "gameInstructions.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameInstructions.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameInstructions.cpp",
               "RelativeDocumentMoniker": "keyW0rd\\gameInstructions.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameInstructions.cpp",
-              "RelativeToolTip": "keyW0rd\\gameInstructions.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameInstructions.cpp*",
+              "RelativeToolTip": "keyW0rd\\gameInstructions.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-23T18:27:51.007Z"
+              "WhenOpened": "2024-11-23T18:27:51.007Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "mainMenu.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\mainMenu.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\mainMenu.h",
               "RelativeDocumentMoniker": "keyW0rd\\mainMenu.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\mainMenu.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\mainMenu.h",
               "RelativeToolTip": "keyW0rd\\mainMenu.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -135,24 +136,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "mainMenu.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\mainMenu.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\mainMenu.cpp",
               "RelativeDocumentMoniker": "keyW0rd\\mainMenu.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\mainMenu.cpp*",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\mainMenu.cpp*",
               "RelativeToolTip": "keyW0rd\\mainMenu.cpp*",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-23T10:18:32.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "gameMechanics.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameMechanics.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameMechanics.h",
               "RelativeDocumentMoniker": "keyW0rd\\gameMechanics.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DS2.0\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameMechanics.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\sprint-math-games-9th-grade-dedsec_2-0\\keyW0rd\\keyW0rd\\gameMechanics.h",
               "RelativeToolTip": "keyW0rd\\gameMechanics.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",

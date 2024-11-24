@@ -35,7 +35,9 @@ void mainMenu() {
     cout << "|                  3. Quit                          |" << endl;
     cout << "|                 .-----------------.               |" << endl;
     cout << "[===================================================]" << endl;
-    cout << "|  Please enter your choice (1-3):                  |" << endl;
+    cout << "|          .________________________________.       |" << endl;
+    cout << "|            Please enter your choice (1-3)         |" << endl;
+    cout << "|          .--------------------------------.       |" << endl;
     cout << "[@]================================================[@]" << endl;
 
     int num;

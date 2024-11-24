@@ -29,13 +29,13 @@ void gameInstructions()
     cout << " |        .---------------------------------.        |" << endl;
     cout << " [===================================================]" << endl;
     cout << " |          ._______________________________.        |" << endl;
-    cout << " |            Press Enter to return to menu          |" << endl;
+    cout << " |        Enter any character to return to menu      |" << endl;
     cout << " |          .-------------------------------.        |" << endl;
     cout << "[@]=================================================[@]" << endl;
 
-    cout << "\nPress Enter to return to the menu";
-    cin.ignore(); 
-    cin.get();
+    char  randomInput;
+    cin >> randomInput;
+    mainMenu();
     
 }
 
