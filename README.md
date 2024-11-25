@@ -30,6 +30,9 @@
      <p>suitable for all ages.</p>
 </p>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
 <h2>Members</h2>
 
 <p>Pavel Purvanov - Scrum Trainer</p>
