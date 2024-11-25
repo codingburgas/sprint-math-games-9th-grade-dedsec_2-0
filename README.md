@@ -35,6 +35,7 @@
 <p>Pavel Purvanov - Scrum Trainer</p>
 <p>Milen Vasilev - Developer</p>
 <p>Rosica Parapanova - Designer</p>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ##  Used Technologies
