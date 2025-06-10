@@ -1,9 +1,8 @@
-<p>================================➡️keyW0rd⬅️==================================</p>
 <p align="center">
 </p>
 
-<h1 align="center"> DedSec_2.0 </h1>
-<h3 align="center"> Don't look back </h3>  
+<h1 align="center"> Bug Busters 🚒🧯 </h1>
+<h3 align="center"> Push limits, embrace growth </h3>  
 
 <br>
 
@@ -17,29 +16,27 @@
     <li><a href="#download">    Download</a></li>
 </details>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<img src="https://github.com/user-attachments/assets/54e7f041-53c0-438f-8467-dde8d73773ec" width="5000" alt="BlueStripe">
+
 
 <!-- ABOUT THE PROJECT -->
-<h2 id="about-the-project">About The Project</h2>
+<h2 id="about-the-project">About The Project 📖</h2>
 
 <p align="justify">
-    <p>“keyW0rd” is a word game</p>
-     <p>in which you have 12 attempts</p>
-     <p>to guess a 4 words made up of 5 letters.</p>
-     <p>The game is entertaining and</p>
-     <p>suitable for all ages.</p>
+    <p> Our app makes it easy to connect with nearby firefighter crews and check their availability in real time. Whether for emergencies, fire watch, or community events, users can quickly find and contact the right team.
+        It’s a smarter, faster way to stay safe and connected to the professionals who protect us.</p>
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<img src="https://github.com/user-attachments/assets/54e7f041-53c0-438f-8467-dde8d73773ec" width="5000" alt="BlueStripe">
+
+<h2>🏆👨🏻‍💻 The Team</h2>
+<p><a href="https://github.com/RVParapanova23">Rosica Parapanova 9V🟢</a> - Scrum Trainer</p>
+<p><a href="https://github.com/LESusova23">Leya Susova 9B🔴</a> - Back-end Developer</p>
+<p><a href="https://github.com/KRParashkevov23">Kristiyan Parashkevov 9G🔵</a> - Back-end Developer</p>
+<p><a href="https://github.com/lzkumanov23">Lubomir Kumanov 9G🔵</a> - Designer</p>
 
 
-<h2>Members</h2>
-
-<p>Pavel Purvanov - Scrum Trainer</p>
-<p>Milen Vasilev - Developer</p>
-<p>Rosica Parapanova - Designer</p>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<img src="https://github.com/user-attachments/assets/54e7f041-53c0-438f-8467-dde8d73773ec" width="5000" alt="BlueStripe">
 
 ##  Used Technologies
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" width="20" alt="Visual Studio 2022 Logo"> <a href="https://visualstudio.microsoft.com/vs/">Visual Studio 2022</a>
@@ -49,10 +46,11 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" width="20" alt="MS Teams Logo"> <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software">MS Teams</a>
 -----------------------------------------------------------------------------------------------------------------------------------
 
--Programing languages: <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" width="20" alt="C++ Logo"> <a href="https://cplusplus.com/">C++</a>
+## For the making of our project we used:
+<img src ="https://github.com/user-attachments/assets/e1dfe4a1-be45-4ead-a2f0-d25a315bc265" width="70" alt="logos"><a href="https://www.javascript.com">HTML5, CSS and JS</a>
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<img src="https://github.com/user-attachments/assets/54e7f041-53c0-438f-8467-dde8d73773ec" width="5000" alt="BlueStripe">
 
 <!-- CONTRIBUTORS -->
 
@@ -61,7 +59,7 @@
 
 <p>To download our project, clone our repository by pasting this command in your command prompt:</p>
 
-<pre align="center">git clone "https://github.com/codingburgas/sprint-math-games-9th-grade-dedsec_2-0"</pre>
+<pre align="center">git clone "https://github.com/codingburgas/9th-grade-html-project-bug-busters.git"</pre>
 
 <hr>
 
